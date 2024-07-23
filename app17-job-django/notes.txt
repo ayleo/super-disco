@@ -1,0 +1,2 @@
+django-admin startproject mysite .
+python manage.py startapp name_of_app
