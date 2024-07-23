@@ -1,0 +1,6 @@
+pip~=24.0
+toml~=0.10.2
+tornado~=6.4
+setuptools~=69.1.1
+PySimpleGUI~=5.0.2
+streamlit~=1.32.0
